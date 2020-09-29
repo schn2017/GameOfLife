@@ -1,7 +1,7 @@
 # Game Of Life
 ### Description
 One year ago, I stumbled across Conway's Game of Life on youtube. I thought it was a neat little simulation of cellular life.
-I would find out later that these types of simulations are called cellular automata. 
+I would find out later that these types of simulations were called cellular automata. 
 
 After completing Chamber Crawler, I knew I wanted to try my hand at implementing Conway's Game of Life in Java. Unlike
 Chamber Crawler, I wanted to give this project an actual GUI and graphics instead of printing characters repeatedly in the
